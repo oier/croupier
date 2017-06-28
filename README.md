@@ -1,0 +1,2 @@
+# croupier
+Haskell Learning project
